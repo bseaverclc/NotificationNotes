@@ -16,10 +16,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    func introNotification()
-    {
-        
-    }
+    
 
     @IBAction func notificationAction(_ sender: UIButton) {
         // Make sure userNotifications is turned on
